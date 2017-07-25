@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">BottomNavigationViewExample</string>
+	    <string name="action_settings">Settings</string>
+    <string name="action_all">All</string>
+    <string name="action_big">Big</string>
+    <string name="action_small">Small</string>
+    <string name="action_trained">Trained</string>
+    <string name="action_active">Active</string>
+</resources>
